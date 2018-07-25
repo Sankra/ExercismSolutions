@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplexNumbers", "ComplexNumbers.csproj", "{3401BC7A-7E1B-4228-8C89-F8F638C531BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3401BC7A-7E1B-4228-8C89-F8F638C531BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3401BC7A-7E1B-4228-8C89-F8F638C531BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3401BC7A-7E1B-4228-8C89-F8F638C531BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3401BC7A-7E1B-4228-8C89-F8F638C531BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
