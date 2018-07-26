@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raindrops", "Raindrops.csproj", "{9C0C3BF1-5C87-4FB4-A44B-250F242FC01A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Benchmark", "Benchmark\Benchmark.csproj", "{5B62A83E-2A30-4057-BCEF-806AA2C60F2C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{9C0C3BF1-5C87-4FB4-A44B-250F242FC01A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C0C3BF1-5C87-4FB4-A44B-250F242FC01A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C0C3BF1-5C87-4FB4-A44B-250F242FC01A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B62A83E-2A30-4057-BCEF-806AA2C60F2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B62A83E-2A30-4057-BCEF-806AA2C60F2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B62A83E-2A30-4057-BCEF-806AA2C60F2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B62A83E-2A30-4057-BCEF-806AA2C60F2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
