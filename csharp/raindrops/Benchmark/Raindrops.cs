@@ -3,7 +3,7 @@ using BenchmarkDotNet.Attributes;
 
 [RankColumn, MemoryDiagnoser]
 public class Raindrops {
-    [Params(0, int.MaxValue)]
+    [Params(0, 3, 5, 7, 15, 21, 105)]
     public int Number;
 
     [Benchmark]
